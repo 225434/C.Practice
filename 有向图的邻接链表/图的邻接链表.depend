@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649256068 source:c:\users\86199\desktop\c\图的邻接链表\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649325436 source:c:\users\86199\desktop\c\有向图的邻接链表\main.c
+	<stdio.h>
+	<stdlib.h>
+

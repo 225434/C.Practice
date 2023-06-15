@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640255599 source:c:\users\86199\desktop\数据结构课程设计\代码\学生通讯录管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
